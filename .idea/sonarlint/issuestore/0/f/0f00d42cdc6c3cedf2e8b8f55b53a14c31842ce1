@@ -1,0 +1,31 @@
+
+Q
+java:S1128";Remove this unused import 'javax.security.sasl.SaslClient'.(¹Òó
+n	java:S116"TRename this field "OVERDRAFT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÒ”ûûÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ëÒ”ûûÿÿÿÿ
+A
+java:S1172"&Remove these unused method parameters.(Ğ§Øİúÿÿÿÿ
+O
+java:S3400"9Remove this method and declare a constant for this value.(”·³›
+<
+java:S1172"&Remove these unused method parameters.(õ”Ø…
+O
+java:S3400"9Remove this method and declare a constant for this value.(”·³›
+<
+java:S1172 "&Remove these unused method parameters.(—Ó­Å
+G
+java:S1068"1Remove this unused "accountNumber" private field.(£•¤š
+K
+java:S1068	"0Remove this unused "checkBalance" private field.(£’¡ùÿÿÿÿ
+L
+java:S1068
+"1Remove this unused "savingBalance" private field.(ö“Ñçúÿÿÿÿ
+I
+java:S1068".Remove this unused "savingRate" private field.(ßæÔºıÿÿÿÿ
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+H
+java:S1068"-Remove this unused "OVERDRAFT" private field.(ëÒ”ûûÿÿÿÿ
+I
+java:S1144 "3Remove this unused private "checkOverdraft" method.(—Ó­Å
